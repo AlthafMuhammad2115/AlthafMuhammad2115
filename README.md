@@ -47,14 +47,13 @@ I am a full-stack developer proficient in frontend technologies like Angular, Re
 ### 1. Godope - Clothing Store (MEAN Stack)
 An e-commerce platform for trendy clothing items.
 
-- **Repository**: [https://github.com/AlthafMuhammad2115/E-commerce-Frontend](#)
-- **Link**: [https://godope-a-clothing-website.vercel.app/](#)
+- **Repository**: [https://github.com/AlthafMuhammad2115/E-commerce-Frontend](https://github.com/AlthafMuhammad2115/E-commerce-Frontend)
+- **Link**: [https://godope-a-clothing-website.vercel.app/](https://godope-a-clothing-website.vercel.app/)
 
 ### 2. Flight Booking System (Node.js, Express.js, MongoDB)
 A comprehensive web application for booking flight tickets.
 
-- **Repository**: [Flight Booking System Repository](#)
-- **Link**: [Flight Booking System Website](#)
+- **Repository**: [https://github.com/AlthafMuhammad2115/Flight_Booking](https://github.com/AlthafMuhammad2115/Flight_Booking)
 
 ### 3. Foodie - Food Ordering Website (Angular)
 An online platform for ordering food from various restaurants.
