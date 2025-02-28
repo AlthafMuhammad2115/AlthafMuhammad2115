@@ -6,14 +6,12 @@ Welcome to my GitHub profile! I'm Muhammad Althaf, also known as Althaa. I'm a 2
 
 ## 🌟 About Me
 
-I am a full-stack developer proficient in frontend technologies like Angular, React, and React Native, along with backend frameworks such as Node.js and Express.js. My journey into software development has also fueled my interest in machine learning, where I'm exploring tools like TensorFlow, PyTorch, and Keras.
+I am a full-stack developer proficient in frontend technologies like Angular, React, and React Native, along with backend frameworks such as Node.js and Express.js. My journey into software development has also fueled my interest in machine learning.
 
 ### Technical Skills
 
 #### Frontend Development
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
@@ -34,11 +32,6 @@ I am a full-stack developer proficient in frontend technologies like Angular, Re
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 
-#### Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=D00000)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 
 ---
 
